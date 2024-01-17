@@ -3,41 +3,41 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.HelloWorld", "P01.HelloWorld\P01.HelloWorld.csproj", "{8C1B30A0-E1EB-416D-A7AD-FD48DB20D19B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.HelloWorld", "P01.HelloWorld\P01.HelloWorld.csproj", "{8C1B30A0-E1EB-416D-A7AD-FD48DB20D19B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.VariableWorld", "P02.VariableWorld\P02.VariableWorld.csproj", "{12C9823E-42EB-43C5-ABA8-95D6C78AD373}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02.VariableWorld", "P02.VariableWorld\P02.VariableWorld.csproj", "{12C9823E-42EB-43C5-ABA8-95D6C78AD373}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.TypeConversion", "P03.TypeConversion\P03.TypeConversion.csproj", "{6C994426-0BA3-45C5-94E5-65018871C102}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03.TypeConversion", "P03.TypeConversion\P03.TypeConversion.csproj", "{6C994426-0BA3-45C5-94E5-65018871C102}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04.Operators", "P04.Operators\P04.Operators.csproj", "{0E96C7A3-E0BD-461E-9B22-2354BC8AA17A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04.Operators", "P04.Operators\P04.Operators.csproj", "{0E96C7A3-E0BD-461E-9B22-2354BC8AA17A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05.FlowMechanism", "P05.FlowMechanism\P05.FlowMechanism.csproj", "{4ACAD4B0-9FAE-408B-9151-210270A91F44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P05.FlowMechanism", "P05.FlowMechanism\P05.FlowMechanism.csproj", "{4ACAD4B0-9FAE-408B-9151-210270A91F44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06.Functions", "P06.Functions\P06.Functions.csproj", "{543613E2-61E8-456D-9A8A-412C19F86A2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P06.Functions", "P06.Functions\P06.Functions.csproj", "{543613E2-61E8-456D-9A8A-412C19F86A2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07.Arrays", "P07.Arrays\P07.Arrays.csproj", "{BD18286D-7CD0-4A1E-8B19-C9B5764B7528}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P07.Arrays", "P07.Arrays\P07.Arrays.csproj", "{BD18286D-7CD0-4A1E-8B19-C9B5764B7528}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08.ErrorControls", "P08.ErrorControls\P08.ErrorControls.csproj", "{8E8294AE-341B-4CF5-96AC-7F393489C1B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P08.ErrorControls", "P08.ErrorControls\P08.ErrorControls.csproj", "{8E8294AE-341B-4CF5-96AC-7F393489C1B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09.Methods", "P09.Methods\P09.Methods.csproj", "{0DF1859C-30DE-40B6-A1DB-01A9C1321A9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P09.Methods", "P09.Methods\P09.Methods.csproj", "{0DF1859C-30DE-40B6-A1DB-01A9C1321A9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10.Classes", "P10.Classes\P10.Classes.csproj", "{934DF532-640E-418F-9DA8-653D1D13A78B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P10.Classes", "P10.Classes\P10.Classes.csproj", "{934DF532-640E-418F-9DA8-653D1D13A78B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11.AccessModifiers", "11.AccessModifiers\P11.AccessModifiers.csproj", "{8BF6A669-0C5D-46D6-8F60-E8AC8B446C35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P12.Inheritance", "P12.Inheritance\P12.Inheritance.csproj", "{B836A8A6-4897-477C-BDD0-05BA6F0ACAEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12.Inheritance", "P12.Inheritance\P12.Inheritance.csproj", "{B836A8A6-4897-477C-BDD0-05BA6F0ACAEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P13.Polymorphism", "P13.Polymorphism\P13.Polymorphism.csproj", "{ACE5C80A-D46B-4017-A4BE-6B41E866FB6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13.Polymorphism", "P13.Polymorphism\P13.Polymorphism.csproj", "{ACE5C80A-D46B-4017-A4BE-6B41E866FB6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P14.Constructors", "P14.Constructors\P14.Constructors.csproj", "{89BD1DD1-5AE5-49FE-8CD1-70C8DB762E47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P14.Constructors", "P14.Constructors\P14.Constructors.csproj", "{89BD1DD1-5AE5-49FE-8CD1-70C8DB762E47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P15.Encapsulation", "P15.Encapsulation\P15.Encapsulation.csproj", "{0A886304-93CE-47BE-A22D-206FBD46CAB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P15.Encapsulation", "P15.Encapsulation\P15.Encapsulation.csproj", "{0A886304-93CE-47BE-A22D-206FBD46CAB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P16.Structs", "P16.Structs\P16.Structs.csproj", "{02245B62-0F98-479B-87D1-809C3B05B45C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P16.Structs", "P16.Structs\P16.Structs.csproj", "{02245B62-0F98-479B-87D1-809C3B05B45C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P17.Abstraction", "P17.InterfacesAbstraction\P17.Abstraction.csproj", "{E23967CE-7F9D-4A89-BC97-DF4770A8E541}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P17.Abstraction", "P17.InterfacesAbstraction\P17.Abstraction.csproj", "{E23967CE-7F9D-4A89-BC97-DF4770A8E541}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P18.Interfaces", "P18.Interfaces\P18.Interfaces.csproj", "{3CDEE45D-2804-4B9F-B896-6F2767D581E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P18.Interfaces", "P18.Interfaces\P18.Interfaces.csproj", "{3CDEE45D-2804-4B9F-B896-6F2767D581E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P11.AccessModifiers", "P11.AccessModifiers\P11.AccessModifiers.csproj", "{8F06CD9A-A3E0-482A-8346-1050D4783E8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -85,10 +85,6 @@ Global
 		{934DF532-640E-418F-9DA8-653D1D13A78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{934DF532-640E-418F-9DA8-653D1D13A78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{934DF532-640E-418F-9DA8-653D1D13A78B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8BF6A669-0C5D-46D6-8F60-E8AC8B446C35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8BF6A669-0C5D-46D6-8F60-E8AC8B446C35}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8BF6A669-0C5D-46D6-8F60-E8AC8B446C35}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8BF6A669-0C5D-46D6-8F60-E8AC8B446C35}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B836A8A6-4897-477C-BDD0-05BA6F0ACAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B836A8A6-4897-477C-BDD0-05BA6F0ACAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B836A8A6-4897-477C-BDD0-05BA6F0ACAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -117,6 +113,10 @@ Global
 		{3CDEE45D-2804-4B9F-B896-6F2767D581E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CDEE45D-2804-4B9F-B896-6F2767D581E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CDEE45D-2804-4B9F-B896-6F2767D581E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F06CD9A-A3E0-482A-8346-1050D4783E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F06CD9A-A3E0-482A-8346-1050D4783E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F06CD9A-A3E0-482A-8346-1050D4783E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F06CD9A-A3E0-482A-8346-1050D4783E8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
